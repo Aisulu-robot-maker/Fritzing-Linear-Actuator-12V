@@ -8,13 +8,13 @@ This part was created because there were no existing Fritzing parts for a linear
 
 ## Files
 
-- `linear_actuator.fzpz` - The Fritzing part file for the linear actuator.
+- `linear actuator.fzpz` - The Fritzing part file for the linear actuator.
 
 ## How to Use
 
-1. Download the `linear_actuator.fzpz` file.
+1. Download the `linear actuator.fzpz` file.
 2. Open Fritzing.
-3. Import the part by selecting `File` > `Open...` and choosing the `linear_actuator.fzpz` file.
+3. Import the part by selecting `File` > `Open...` and choosing the `linear actuator.fzpz` file.
 4. The part should now be available in your parts library.
 
 ## License
